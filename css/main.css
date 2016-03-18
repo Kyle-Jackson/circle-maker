@@ -11,6 +11,5 @@ html {
   height: 100px;
   position: absolute;
   background-color: red;
-  border-radius: 50x;
-  transition: all 200ms linear;
+  border-radius: 50px;
 }
